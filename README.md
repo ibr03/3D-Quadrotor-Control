@@ -1,4 +1,4 @@
-# 3d Quadrotor Control
+# 3D Quadrotor Control
 
 * Implemented a PD controller to control a quadrotor in 3D.
 
